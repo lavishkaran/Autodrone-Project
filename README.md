@@ -6,4 +6,4 @@ pygame,
 numpy,
 opencv-python.
 # image capture module
-Create a resource file folder for saving images in that folder
+Create a Resources file folder for saving images in that folder and move haarcascade_frontalface_default in Resources Folder
